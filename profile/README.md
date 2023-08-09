@@ -4,5 +4,13 @@
 # Chizmoza
 > Another platform for your community.
 
+## Repositories
+
+| Repository         | Description     | Maintainer |
+|--------------|-----------|------------|
+| [.github](https://github.com/chizmoza/.github) | forum | [@rhylso](https://github.com/rhylso)        |
+| [client](https://github.com/chizmoza/client) | frontend | [@rhylso](https://github.com/rhylso)     
+| [server](https://github.com/chizmoza/server) | backend | [@rhylso](https://github.com/rhylso)     
+
 ---
 > Chizmoza 2023.
