@@ -2,7 +2,6 @@
 > Notice: Chizmoza is currently under development.
 
 # Chizmoza [.github]
-> Another platform for your community.
 
 ## Links
 - [Discussion](https://github.com/chizmoza/.github/discussions)
